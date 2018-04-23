@@ -1,0 +1,12 @@
+target
+classes
+.settings
+.project
+.classpath
+.DS_Store
+.DS_Store?
+.idea
+*.iml
+derby.log
+metastore_db
+spark-warehouse
